@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="34.151" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Wizz Air Login Page" name="Verify Login With Valid Credentials - Example #1.1" time="33.725">
+<system-out><![CDATA[
+Given User is on Wizz Air Login Screen......................................passed
+When User enters username "bala@gmail.com" and password "bala@123" and click on singin Button.passed
+Then User Verify Home Page is Displayed.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
